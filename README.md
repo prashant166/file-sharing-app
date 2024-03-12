@@ -3,6 +3,8 @@ FILE SHARING APPLICATION USING MERN STACK
 
 This project aims to provide a simple yet efficient platform for users to upload and share files. Utilizing the MERN stack (MongoDB, Express.js, React.js, Node.js), this application offers a seamless experience for both uploading and accessing files.
 Features:
+
+
 -File Upload: Easily upload files of various formats with a user-friendly interface.
 
 -File Link Generation: Upon uploading, a unique link is generated for each file, allowing easy sharing with others.
